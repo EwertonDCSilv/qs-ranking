@@ -1,6 +1,6 @@
 # QS Ranking
 
-### Script para exportar lista de universidades do rankink QS 2021 https://www.topuniversities.com/university-rankings/university-subject-rankings/2021/
+### Script para exportar lista de universidades do <a href="https://www.topuniversities.com/university-rankings/university-subject-rankings/2021/"> rankink QS 2021</a> 
 
 #### Para utilizar o Script voce deve instalar a extenção <a href="https://tampermonkey.net/" >Tampermonkey</a>
 
