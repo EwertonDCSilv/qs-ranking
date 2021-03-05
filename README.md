@@ -1,6 +1,7 @@
 # QS Ranking
 
-### Script para exportar lista de universidades do <a href="https://www.topuniversities.com/university-rankings/university-subject-rankings/2021/"> rankink QS 2021</a> 
+### Script para exportar lista de universidades do <a href="https://www.topuniversities.com/university-rankings/university-subject-rankings/2021/"> ranking QS 2021</a> 
+### Script para exportar lista de universidades do <a href="https://www.topuniversities.com/university-rankings/university-subject-rankings/2021/"> ranking QS 2021</a> 
 
 #### Para utilizar o Script voce deve instalar a extenção <a href="https://tampermonkey.net/" >Tampermonkey</a>
 
@@ -36,5 +37,5 @@
 **![p9](https://user-images.githubusercontent.com/28262885/42700808-3ba79cec-869b-11e8-83ac-e94d27aa20ec.png)
 <br>
 **10 - Verifique se a opção QS Ranking foi criada**
-**![p10](https://user-images.githubusercontent.com/28262885/42700809-3bc88c22-869b-11e8-9217-692b7933dd02.png)
+**![p10](https://user-images.githubusercontent.com/28262885/110154557-27842b00-7dc3-11eb-90dc-e3364a9bf020.png)
 <br>
